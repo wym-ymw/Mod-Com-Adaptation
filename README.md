@@ -4,6 +4,8 @@ Adapt a pretrained multilingual LM independently for two factors, a language
 and a genre, then compose the two modules on the small intersection domain and
 measure how well the result models it.
 
+The write-up is in [report.pdf](report.pdf).
+
 ## Structure
 
 ```
